@@ -1,8 +1,8 @@
 class Hamta < Formula
   desc "Run commands through a configurable proxy environment"
   homepage "https://github.com/andrewmmc/hamta"
-  url "https://github.com/andrewmmc/hamta/archive/refs/tags/1.1.4.tar.gz"
-  sha256 "e422ab858453a4b15ab22698094a385de1e6aff968db357216ce5f1ed340f022"
+  url "https://github.com/andrewmmc/hamta/archive/refs/tags/1.1.5.tar.gz"
+  sha256 "6b6793460e45faefc2efdc417655153f42748528fdd4682e6856f528a8a8176e"
   license "MIT"
   head "https://github.com/andrewmmc/hamta.git", branch: "master"
 
