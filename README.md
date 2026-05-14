@@ -1,6 +1,6 @@
-# Homebrew Tap
+# andrewmmc/homebrew-tap
 
-Homebrew tap for Andrew McCallum's command-line tools.
+Homebrew tap for Andrew's command-line tools.
 
 ## Available formulae
 
